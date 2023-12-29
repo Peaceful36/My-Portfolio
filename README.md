@@ -1,2 +1,2 @@
 # My-Portfolio
-Deployed on Netlify: https://hoa-nguyen.netlify.app/
+Deployed on Netlify: https://thoa-portfolio.netlify.app/
